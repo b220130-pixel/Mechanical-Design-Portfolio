@@ -23,3 +23,17 @@ Performed basic torsional stress analysis to evaluate shaft strength and load ca
 
 ## Objective
 To understand power transmission systems and mechanical design principles in gearbox systems.
+
+## Gearbox 3D Model Preview
+
+### Assembly View
+![Assembly](gearbox-assembly.png)
+
+### Exploded View
+![Exploded](gearbox-exploded.png)
+
+### 2D Drawing
+![Drawing](gearbox-drawing.png)
+
+### Side View
+![Side View](gearbox-sideview.png)
